@@ -1,0 +1,21 @@
+{
+    "name": "autoML_frontend",
+    "version": "1.0.0",
+    "description": "AutoML frontend",
+    "main": "index.js",
+    "dependencies": {
+      "react": "^17.0.2",
+      "react-dom": "^17.0.2",
+      "axios": "^0.24.0",
+      "bootstrap": "^5.3.0"
+      // Add other dependencies as needed
+    },
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build"
+      // Add other scripts as needed
+    },
+    "author": "Your Name",
+    "license": "MIT"
+  }
+  
